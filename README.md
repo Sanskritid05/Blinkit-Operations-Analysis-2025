@@ -75,7 +75,6 @@ The model explains most demand variability and can reliably support reorder plan
 **Model Used:** Random Forest Classifier  
 
 **Results:**
-- 100% precision and recall  
 - Clear separation driven by stock vs reorder thresholds  
 
 **Insight:**  
