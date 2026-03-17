@@ -17,7 +17,7 @@ This project addresses these issues through a **unified, data-driven analytics f
 ---
 
 ## 📊 Dataset Description
-- **Records:** ~13,000 products  
+- **Records:** ~13,000 products  (Stock Keeping Unit)
 - **Features:** 25+ raw attributes expanded to 34 engineered features  
 - **Data Includes:**  
   - Product, category, brand  
